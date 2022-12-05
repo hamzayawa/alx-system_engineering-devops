@@ -25,3 +25,6 @@ This file is all about Shell Input/output Redirections and How to filter them!.
 
 
 [8-cwd_state](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x02-shell_redirections/8-cwd_state) - Write a script that writes into the file ls_cwd_content the result of the command ls -la. If the file ls_cwd_content already exists, it should be overwritten. If the file ls_cwd_content does not exist, create it.
+
+
+[9-duplicate_last_line](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x02-shell_redirections/9-duplicate_last_line) - Write a script that duplicates the last line of the file iacta.

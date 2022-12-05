@@ -1,0 +1,17 @@
+total 60
+drwxrwxr-x 2 hamzayawa hamzayawa 4096 Dec  5 11:03 .
+drwxrwxr-x 6 hamzayawa hamzayawa 4096 Dec  5 06:28 ..
+-rwxrw-r-- 1 hamzayawa hamzayawa   33 Dec  5 06:29 0-hello_world
+-rwxrw-r-- 1 hamzayawa hamzayawa   29 Dec  5 06:49 1-confused_smiley
+-rwxrw-r-- 1 hamzayawa hamzayawa   29 Dec  5 06:58 2-hellofile
+-rwxrw-r-- 1 hamzayawa hamzayawa   40 Dec  5 07:06 3-twofiles
+-rwxrw-r-- 1 hamzayawa hamzayawa   29 Dec  5 07:46 4-lastlines
+-rwxrw-r-- 1 hamzayawa hamzayawa   29 Dec  5 07:57 5-firstlines
+-rwxrw-r-- 1 hamzayawa hamzayawa   36 Dec  5 08:04 6-third_line
+-rwxrw-r-- 1 hamzayawa hamzayawa   83 Dec  5 10:17 7-file
+-rwxrw-r-- 1 hamzayawa hamzayawa   36 Dec  5 10:32 8-cwd_state
+-rwxrw-r-- 1 hamzayawa hamzayawa   35 Dec  5 11:02 9-duplicate_last_line
+-rw-rw-r-- 1 hamzayawa hamzayawa   12 Dec  5 10:19 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 hamzayawa hamzayawa  799 Dec  5 11:02 iacta
+-rw-rw-r-- 1 hamzayawa hamzayawa    0 Dec  5 11:03 ls_cwd_content
+-rw-rw-r-- 1 hamzayawa hamzayawa 2019 Dec  5 10:27 README.md
