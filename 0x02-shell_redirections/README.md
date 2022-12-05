@@ -14,3 +14,4 @@ This file is all about Shell Input/output Redirections and How to filter them!.
 [4-lastlines](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x02-shell_redirections/4-lastlines) - Display the last 10 lines of /etc/passwd.
 
 [5-firstlines](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x02-shell_redirections/2-hellofile) - Display the first 10 lines of /etc/passwd.
+[6-third_line](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x02-shell_redirections/6-third_line) - Write a script that displays the third line of the file iacta.
