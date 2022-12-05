@@ -28,3 +28,6 @@ This file is all about Shell Input/output Redirections and How to filter them!.
 
 
 [9-duplicate_last_line](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x02-shell_redirections/9-duplicate_last_line) - Write a script that duplicates the last line of the file iacta.
+
+
+[10-no_more_js](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x02-shell_redirections/10-no_more_js) - Write a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
