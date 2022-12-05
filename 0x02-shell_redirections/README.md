@@ -46,3 +46,6 @@ This file is all about Shell Input/output Redirections and How to filter them!.
 
 
 [15-countthatword](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x02-shell_redirections/15-countthatword) - Display the number of lines that contain the pattern “bin” in the file /etc/passwd.
+
+
+[16-whatsnext](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x02-shell_redirections/16-whatsnext) - Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
