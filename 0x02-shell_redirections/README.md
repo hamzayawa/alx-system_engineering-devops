@@ -52,3 +52,6 @@ This file is all about Shell Input/output Redirections and How to filter them!.
 
 
 [17-hidethisword](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x02-shell_redirections/17-hidethisword) - Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
+
+
+[18-letteronly](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x02-shell_redirections/18-letteronly) - Display all lines of the file /etc/ssh/sshd_config starting with a letter.
