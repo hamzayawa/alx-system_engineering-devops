@@ -61,3 +61,6 @@ This file is all about Shell Input/output Redirections and How to filter them!.
 
 
 [20-hiago](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x02-shell_redirections/20-hiago) - Create a script that removes all letters c and C from input.
+
+
+[21-reverse](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x02-shell_redirections/21-reverse) - Write a script that reverse its input.
