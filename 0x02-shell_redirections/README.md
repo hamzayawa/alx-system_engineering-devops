@@ -40,3 +40,6 @@ This file is all about Shell Input/output Redirections and How to filter them!.
 
 
 [13-unique](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x02-shell_redirections/13-unique) - Create a script that takes a list of words as input and prints only words that appear exactly once.
+
+
+[14-findthatword](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x02-shell_redirections/14-findthatword) - Display lines containing the pattern “root” from the file /etc/passwd.
