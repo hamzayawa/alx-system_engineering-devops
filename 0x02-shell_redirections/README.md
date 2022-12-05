@@ -70,3 +70,6 @@ This file is all about Shell Input/output Redirections and How to filter them!.
 
 
 [100-empty_casks](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x02-shell_redirections/100-empty_casks) - Write a command that finds all empty files and directories in the current directory and all sub-directories.
+
+
+[101-gifs](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x02-shell_redirections/101-gifs) - Write a script that lists all the files with a .gif extension in the current directory and all its sub-directories.
