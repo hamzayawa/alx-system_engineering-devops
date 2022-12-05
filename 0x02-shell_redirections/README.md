@@ -64,3 +64,6 @@ This file is all about Shell Input/output Redirections and How to filter them!.
 
 
 [21-reverse](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x02-shell_redirections/21-reverse) - Write a script that reverse its input.
+
+
+[22-users_and_homes](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x02-shell_redirections/22-users_and_homes) - Write a script that displays all users and their home directories, sorted by users.
