@@ -73,3 +73,6 @@ This file is all about Shell Input/output Redirections and How to filter them!.
 
 
 [101-gifs](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x02-shell_redirections/101-gifs) - Write a script that lists all the files with a .gif extension in the current directory and all its sub-directories.
+
+
+[102-acrostic](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x02-shell_redirections/102-acrostic) - Create a script that decodes acrostics that use the first letter of each line.
