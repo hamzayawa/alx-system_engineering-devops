@@ -12,3 +12,5 @@ This file is all about Shell Input/output Redirections and How to filter them!.
 [3-twofiles](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x02-shell_redirections/3-twofiles) - Display the content of /etc/passwd and /etc/hosts.
 
 [4-lastlines](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x02-shell_redirections/4-lastlines) - Display the last 10 lines of /etc/passwd.
+
+[5-firstlines](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x02-shell_redirections/2-hellofile) - Display the first 10 lines of /etc/passwd.
