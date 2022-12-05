@@ -58,3 +58,6 @@ This file is all about Shell Input/output Redirections and How to filter them!.
 
 
 [19-AZ](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x02-shell_redirections/19-AZ) - Replace all characters A and c from input to Z and e respectively.
+
+
+[20-hiago](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x02-shell_redirections/20-hiago) - Create a script that removes all letters c and C from input.
