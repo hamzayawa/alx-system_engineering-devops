@@ -31,3 +31,6 @@
 
 
 [10-love_exponent_breath](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/10-love_exponent_breath) - Write a script that displays the result of BREATH to the power LOVE.
+
+
+[11-binary_to_decimal](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/11-binary_to_decimal) - Write a script that converts a number from base 2 to base 10.
