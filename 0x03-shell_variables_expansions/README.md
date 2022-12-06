@@ -22,3 +22,6 @@
 
 
 [7-create_global_variable](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/7-create_global_variable) - Create a script that creates a new global variable.
+
+
+[8-true_knowledge](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/8-true_knowledge) - Write a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
