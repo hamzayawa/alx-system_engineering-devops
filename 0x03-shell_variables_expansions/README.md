@@ -13,3 +13,8 @@
 
 
 [4-global_variables](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/4-global_variables) - Create a script that lists environment variables.
+
+
+[5-local_variables](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/5-local_variables) - Create a script that lists all local variables and environment variables, and functions.
+
+
