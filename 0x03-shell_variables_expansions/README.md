@@ -28,3 +28,6 @@
 
 
 [9-divide_and_rule](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/9-divide_and_rule) - Write a script that prints the result of POWER divided by DIVIDE, followed by a new line.
+
+
+[10-love_exponent_breath](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/10-love_exponent_breath) - Write a script that displays the result of BREATH to the power LOVE.
