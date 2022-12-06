@@ -18,3 +18,4 @@
 [5-local_variables](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/5-local_variables) - Create a script that lists all local variables and environment variables, and functions.
 
 
+[6-create_local_variable](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/6-create_local_variable) - Create a script that creates a new local variable.
