@@ -34,3 +34,6 @@
 
 
 [11-binary_to_decimal](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/11-binary_to_decimal) - Write a script that converts a number from base 2 to base 10.
+
+
+[12-combinations](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/12-combinations) - Create a script that prints all possible combinations of two letters, except oo.
