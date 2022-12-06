@@ -50,3 +50,6 @@
 
 
 [102-odd](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/102-odd) - Write a script that prints every other line from the input, starting with the first line.
+
+
+[103-water_and_stir](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/103-water_and_stir) - Write a shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.
