@@ -25,3 +25,6 @@
 
 
 [8-true_knowledge](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/8-true_knowledge) - Write a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
+
+
+[9-divide_and_rule](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/9-divide_and_rule) - Write a script that prints the result of POWER divided by DIVIDE, followed by a new line.
