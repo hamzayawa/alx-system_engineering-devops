@@ -39,3 +39,8 @@
 [12-combinations](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/12-combinations) - Create a script that prints all possible combinations of two letters, except oo.
 
 [13-print_float](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/13-print_float) - Write a script that prints a number with two decimal places, followed by a new line.
+
+
+## Advance Task 
+
+[100-decimal_to_hexadecimal](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/100-decimal_to_hexadecimal) - Write a script that converts a number from base 10 to base 16.
