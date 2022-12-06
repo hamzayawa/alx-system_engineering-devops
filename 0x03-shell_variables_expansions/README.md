@@ -10,3 +10,6 @@
 
 
 [3-paths](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/3-paths) - Create a script that counts the number of directories in the PATH.
+
+
+[4-global_variables](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/4-global_variables) - Create a script that lists environment variables.
