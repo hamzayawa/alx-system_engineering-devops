@@ -44,3 +44,6 @@
 ## Advance Task 
 
 [100-decimal_to_hexadecimal](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/100-decimal_to_hexadecimal) - Write a script that converts a number from base 10 to base 16.
+
+
+[101-rot13](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/101-rot13) - Write a script that encodes and decodes text using the rot13 encryption. Assume ASCII.
