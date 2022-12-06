@@ -7,3 +7,6 @@
 
 
 [2-path](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/2-path) - Add /action to the PATH. /action should be the last directory the shell looks into when looking for a program.
+
+
+[3-paths](https://github.com/hamzayawa/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/3-paths) - Create a script that counts the number of directories in the PATH.
