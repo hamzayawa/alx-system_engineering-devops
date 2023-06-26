@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+# Installs Nginx to listing on port 80
+
+sudo apt update -y
+sudo apt install -y nginx
+sudo ufw allow 'Nginx HTTP'
+echo "Hello World" | sudo tee /var/www/html/index.nginx-debian.html
+echo "Ceci n'est pas une page" | sudo tee /var/www/html/custom404.html
+sudo sed -i '/listen 80 default_server/a rewrite ^/redirect_me https://www.youtube.com/watch?v=QH2-TGUlwu4 permanent;' /etc/nginx/sites-available/default
+sudo sed -i '/listen 80 default_server/a error_page 404 /custom404.html;' /etc/nginx/sites-available/default
+sudo service nginx reload

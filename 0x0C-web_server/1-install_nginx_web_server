@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# Installs Nginx server to linsten on port 80
+
+apt-get update
+apt-get install -y nginx
+
+echo 'Hello World!' > /var/www/html/index.nginx-debian.html
+service nginx restart
